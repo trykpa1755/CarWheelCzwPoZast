@@ -240,6 +240,7 @@ MonoBehaviour:
   carRenderer: {fileID: 9152875592089708245}
   playerNumber: 0
   backCamera: {fileID: 4627073989740992483}
+  checkPoint: {fileID: 7117781496683677819}
 --- !u!1 &1486661781515396044
 GameObject:
   m_ObjectHideFlags: 0
